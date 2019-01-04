@@ -235,6 +235,13 @@
     padding: 30px;
     border: #FF9F55 solid 3px;
   }
+  .bibliography{
+    margin: 100px 20px 20px;
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 30px;
+    border: #FF9F55 solid 3px;
+  }
   /* The container */
 .containerRadio {
   display: block;
