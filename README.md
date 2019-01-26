@@ -7,9 +7,8 @@ Il retrace l'affaire de Steven Avery, personnage principale de la série documen
 
 ## Installation
 
-Ouvrez le terminal à l'endroit désiré et entrez la commande git clone https://github.com/clemluyet/timeline_project.git
 ```
-
+Ouvrez le terminal à l'endroit désiré et entrez la commande git clone https://github.com/clemluyet/timeline_project.git
 Ouvrez le dossier et cliquez sur index.html
 
 ```
